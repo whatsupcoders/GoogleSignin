@@ -1,16 +1,38 @@
 # fluttergooglesigninapp
 
-A new Flutter project.
+Flutter Tutorial - Google Sign In with Flutter
+I will be showing you how to integrate Google sign-in in your flutter application.
 
+For the Flutter Tutorial - Google Sign In with Flutter Video series you can check this link https://youtu.be/NaFI6bVI_NY
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+I will be showing you how to integrate Google sign-in in your flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+Regarding the Firebase project setup, you can follow the Firestore to Firebase video series https://www.youtube.com/watch?v=R12ks4yDpMM
+Firebase console - https://console.firebase.google.com
 
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
+Below are the details of the plugins used.
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+https://pub.dartlang.org/packages/google_sign_in   google_sign_in: ^4.0.1+3
+https://pub.dartlang.org/packages/firebase_auth    firebase_auth: ^0.8.3
+
+
+How to deal with AndroidX compatibility issue.
+https://flutter.dev/docs/development/packages-and-plugins/androidx-compatibility
+
+
+<div style="text-align: center">
+    <table>
+        <tr>
+            <td style="text-align: center">
+                    <img src="https://user-images.githubusercontent.com/46075509/58397022-c7b8f780-8014-11e9-8a23-47d2e14a43e3.png" width="200"/>
+            </td>            
+            <td style="text-align: center">              
+                    <img src="https://user-images.githubusercontent.com/46075509/58397023-c8ea2480-8014-11e9-8156-32ebe2e86d36.png" width="200"/>
+            </td>
+            <td style="text-align: center">
+                    <img src="https://user-images.githubusercontent.com/46075509/58397024-ca1b5180-8014-11e9-8ace-5546e65372a9.png" width="200" />
+            </td>
+        </tr>
+  </table>
+  </div>
