@@ -36,3 +36,11 @@ https://flutter.dev/docs/development/packages-and-plugins/androidx-compatibility
         </tr>
   </table>
   </div>
+  
+For more Flutter Tutorials watch my videos on https://www.youtube.com/channel/UCDCFIqDZ1QUqivxVFQDxS0w/
+
+FOLLOW ME HERE:
+
+Facebook: https://www.facebook.com/whatsupcoders
+Twitter: https://www.twitter.com/whatsupcoders
+
