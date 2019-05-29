@@ -37,7 +37,8 @@ https://flutter.dev/docs/development/packages-and-plugins/androidx-compatibility
   </table>
   </div>
   
-For more Flutter Tutorials watch my videos on https://www.youtube.com/channel/UCDCFIqDZ1QUqivxVFQDxS0w/
+For more Flutter Tutorials watch my videos on https://www.youtube.com/c/whatsupcoders <br />
+If you appreciate the content 📖, support projects visibility, give 👍| ⭐| 👏
 
 FOLLOW ME HERE:
 
